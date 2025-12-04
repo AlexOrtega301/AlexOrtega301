@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him/Robot
 - ⚡ Fun fact: I Like TLAUNCHER and Canonically i am a Robot
 - 🤖 You can call me: MrRoboto9014 and Alex
+:octocat: Hello!
+Github is cool
 <!---
 AlexOrtega301/AlexOrtega301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
