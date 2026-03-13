@@ -7,7 +7,9 @@
 - 🤖 You can call me: MrRoboto9014 and Alex
 
 Github is cool :octocat:
-▶︎ •၊၊||၊|။||||။ ၊|• 0:10
+
+▶︎ •၊၊||၊|။||||။ ၊|• 0:10 HEY DUDE CLICK PLAYY!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxian521&layout=compact&theme=radical)](https://github.com/xiaoxian521)
 <!---
 AlexOrtega301/AlexOrtega301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
