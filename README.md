@@ -10,7 +10,8 @@ Github is cool :octocat:
 
 ▶︎ •၊၊||၊|။||||။ ၊|• 0:10 HEY DUDE CLICK PLAYY!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrtega301&layout=compact&theme=radical)](https://github.com/AlexOrtega301)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrtega301&layout=compact&theme=transparent)](https://github.com/AlexOrtega301)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=github)
 <!---
 AlexOrtega301/AlexOrtega301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
