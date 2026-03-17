@@ -4,7 +4,7 @@ Here you will find my projects and cool gizmos 🕹️
 Also some of my school projects 📎
 
 ---
-###Socials
+### Socials
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqtm5YnfF6dUbzkT1CTj2sw?style=flat&logo=youtube&logoColor=Ff0000&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCqtm5YnfF6dUbzkT1CTj2sw)
 ![Discord](https://img.shields.io/discord/1247629149590257776?style=flat&logo=discord)
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/TheRobotSub_Reddit?style=flat&logo=reddit)
