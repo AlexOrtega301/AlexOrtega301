@@ -52,6 +52,5 @@ GitHub is cool :octocat:
 ---
 
 # Stats ⚙️
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrtega301&layout=compact&theme=transparent)](https://github.com/AlexOrtega301)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexOrtega301&show_icons=true&rank_icon=github&layout=compact&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrtega301&layout=compact&theme=transparent)](https://github.com/AlexOrtega301)
