@@ -5,9 +5,9 @@ Also some of my school projects 📎
 
 ---
 ### Socials
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqtm5YnfF6dUbzkT1CTj2sw?style=flat&logo=youtube&logoColor=Ff0000&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCqtm5YnfF6dUbzkT1CTj2sw)
-![Discord](https://img.shields.io/discord/1247629149590257776?style=flat&logo=discord)
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/TheRobotSub_Reddit?style=flat&logo=reddit)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqtm5YnfF6dUbzkT1CTj2sw?style=flat&logo=youtube&logoColor=Ff0000&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCqtm5YnfF6dUbzkT1CTj2sw)](https://www.youtube.com/@MrRoboto9014)
+[![Discord](https://img.shields.io/discord/1247629149590257776?style=flat&logo=discord)](https://discord.gg/BsCxanv9Cr)
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/TheRobotSub_Reddit?style=flat&logo=reddit)](https://reddit.com/r/TheRobotSub_Reddit)
 
 ---
 ## Languages I use
@@ -47,10 +47,12 @@ If you don't like it... you can leave. 🙄
 ### Random stuff 🤪
 GitHub is cool :octocat:
 
+how about you Join ![OpenCPI](https://opencpisland.github.io)
+
 ▶︎ •၊၊||၊|။||||။ ၊|• 0:10 HEY DUDE CLICK PLAY!
 
 ---
 
 # Stats ⚙️
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexOrtega301&show_icons=true&rank_icon=github&layout=compact&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrtega301&layout=compact&theme=transparent)](https://github.com/AlexOrtega301)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexOrtega301&show_icons=true&rank_icon=github&layout=compact&theme=transparent)](https://github.com/AlexOrtega301)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrtega301&layout=compact&theme=transparent)](https://alexortega301.github.io/GamingHub)
