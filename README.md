@@ -47,7 +47,7 @@ If you don't like it... you can leave. 🙄
 ### Random stuff 🤪
 GitHub is cool :octocat:
 
-how about you Join ![OpenCPI](https://opencpisland.github.io)
+how about you Join [OpenCPI](https://opencpisland.github.io)
 
 ▶︎ •၊၊||၊|။||||။ ၊|• 0:10 HEY DUDE CLICK PLAY!
 
