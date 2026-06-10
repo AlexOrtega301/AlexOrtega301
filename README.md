@@ -55,4 +55,4 @@ how about you Join [OpenCPI](https://opencpisland.github.io)
 
 # Stats ⚙️
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexOrtega301&show_icons=true&rank_icon=github&layout=compact&theme=transparent)](https://github.com/AlexOrtega301)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrtega301&layout=compact&theme=transparent)](https://alexortega301.github.io/GamingHub)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrtega301&layout=compact&theme=transparent)](https://alexortega301.github.io/)
